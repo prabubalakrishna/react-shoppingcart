@@ -1,0 +1,50 @@
+/* App.css */
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.header{
+  text-align: center;
+  Background-color: #000301;
+  color:rgb(250, 248, 248);
+  width: 100%;
+  font-size:x-large;
+  margin-bottom: 20px;
+  float:left;
+  padding: 50px;
+
+}
+
+h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+button {
+  background-color: #fcfdfc;
+  color: rgb(12, 12, 12);
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #94d4a2;
+  width: 50%;
+}
+
+
+.cartBox{
+  box-shadow: 5px 5px 15px rgba(12, 11, 11, 0.3);
+margin:15px;
+width:20%;
+float: left;
+}  
+.card-img-top{
+  width:100%;
+}
+
+div{
+  text-align: center;
+}
+
